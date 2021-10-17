@@ -9,6 +9,9 @@ In this page, I'll show all my projects.
 * Basic data cleaning and SQL Query
 * Created visualization with Tableau
 
+![image](https://user-images.githubusercontent.com/60825743/137608294-43d24bb9-162a-4212-a1a9-bc6be2cf4a7e.png)
+
+
 ### [Data Science Tesla Stock Analysis per August 2021](https://github.com/gilarndw/Data_Science_proj)
 ***Overview***
 * Created plot to analyze Tesla stock market movement
@@ -16,9 +19,17 @@ In this page, I'll show all my projects.
 * attempted to create basic linear regression model 
 * Analized tesla stock price volatility
 
+![image](https://user-images.githubusercontent.com/60825743/137608352-face888c-8a33-4292-8256-26921570ad24.png)
+
+
 ### [Data Science Customer Classification](https://github.com/gilarndw/ds_customer_classification)
 ***Overview***
 * Explored the data to classify the costumer's background and help the business to understand more about the customer
 * Engineered some features for classification
 * Customer segmentation based on their background
+
+![image](https://user-images.githubusercontent.com/60825743/137608307-256839f2-c940-40ec-a399-f518c88909b1.png)
+
+![image](https://user-images.githubusercontent.com/60825743/137608310-adc03996-d712-49d3-aade-fe6c34cf6aca.png)
+
 
