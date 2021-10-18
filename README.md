@@ -1,8 +1,8 @@
-## Welcome to My Portfolio Pages
+# Welcome to My Portfolio Pages
 
-In this page, I'll show all my projects.
+Here are my projects:
 
-### [Covid 19 Data Exploration in Indonesia per June 2021](https://github.com/gilarndw/AnalystPortfolioProjects)
+## [1. Covid 19 Data Exploration in Indonesia per June 2021](https://github.com/gilarndw/AnalystPortfolioProjects)
 ***Overview***
 * Explored the covid 19 datasets from around the world, time period January 2020 - June 2021
 * Collected covid 19 data in Indonesia by filtering based on location from international covid 19 datasets using SQL
@@ -12,7 +12,7 @@ In this page, I'll show all my projects.
 ![image](https://user-images.githubusercontent.com/60825743/137608294-43d24bb9-162a-4212-a1a9-bc6be2cf4a7e.png)
 
 
-### [Data Science Tesla Stock Analysis per August 2021](https://github.com/gilarndw/Data_Science_proj)
+## [2. Data Science Tesla Stock Analysis per August 2021](https://github.com/gilarndw/Data_Science_proj)
 ***Overview***
 * Created plot to analyze Tesla stock market movement
 * Calculated market capital
@@ -22,7 +22,7 @@ In this page, I'll show all my projects.
 ![image](https://user-images.githubusercontent.com/60825743/137608352-face888c-8a33-4292-8256-26921570ad24.png)
 
 
-### [Data Science Customer Classification](https://github.com/gilarndw/ds_customer_classification)
+## [3. Data Science Customer Classification](https://github.com/gilarndw/ds_customer_classification)
 ***Overview***
 * Explored the data to classify the costumer's background and help the business to understand more about the customer
 * Engineered some features for classification
