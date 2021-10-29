@@ -16,16 +16,16 @@ Here are my projects:
 ***Overview***
 * Created plot to analyze Tesla stock market movement
 * Calculated market capital
-* attempted to create basic linear regression model 
+* Attempted to create basic linear regression model 
 * Analized tesla stock price volatility
 
 ![image](https://user-images.githubusercontent.com/60825743/137608352-face888c-8a33-4292-8256-26921570ad24.png)
 
 
-## [3. Data Science Customer Classification](https://github.com/gilarndw/ds_customer_classification)
+## [3. Data Science Customer Clustering](https://github.com/gilarndw/ds_customer_classification)
 ***Overview***
-* Explored the data to classify the costumer's background and help the business to understand more about the customer
-* Engineered some features for classification
+* Used unsupervised machine learning to create cluster
+* Engineered some features and data preparation
 * Customer segmentation based on their background
 
 ![image](https://user-images.githubusercontent.com/60825743/137608307-256839f2-c940-40ec-a399-f518c88909b1.png)
