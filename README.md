@@ -2,7 +2,19 @@
 
 Here are my projects:
 
-## [1. Deep Learning implementation on Crown-of-Thorns Starfish images (May 2022)](https://github.com/gilarndw/COTS-Classification)
+## [1. New York City Bike Data Analysis (July 2022)](https://github.com/gilarndw/Citi-Bike-Data-Analysis)
+***Overview***
+* Conducted data analysis on New York Citi Bike trip history data
+* Used basic spreadsheet to do data cleaning and exploration
+* Created data visualizations using Google Sheets
+* For the detail objectives and presentation on Google Slides is [here](https://docs.google.com/presentation/d/1biGcRLdmlxs4RKEnK48PRG-kyFe0D1H3NKKXpa-Yl8M/edit?usp=sharing)
+
+![image](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1M-G24FXGOn3uhiAo8Ouy_Uk8nJEZcR5nXlVucjtEuT7a-ZPC9RZA8gqfxpU8_s2oBhGIGI28DKh8/pubchart?oid=261108073&format=image)
+
+![image](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1M-G24FXGOn3uhiAo8Ouy_Uk8nJEZcR5nXlVucjtEuT7a-ZPC9RZA8gqfxpU8_s2oBhGIGI28DKh8/pubchart?oid=935456036&format=image)
+
+
+## [2. Deep Learning implementation on Crown-of-Thorns Starfish images (May 2022)](https://github.com/gilarndw/COTS-Classification)
 ***Overview***
 * Collected [Binary COTS Images dataset](https://www.kaggle.com/datasets/alexteboul/binary-cropped-crown-of-thorns-dataset) from Kaggle
 * Preprocessed the image data through data augmentation to fit the model
@@ -16,7 +28,7 @@ Here are my projects:
 
 
 
-## [2. Data Science Customer Clustering (October 2021)](https://github.com/gilarndw/ds_customer_classification)
+## [3. Data Science Customer Clustering (October 2021)](https://github.com/gilarndw/ds_customer_classification)
 ***Overview***
 * Used unsupervised machine learning to create cluster
 * Engineered some features and data preparation
@@ -26,7 +38,7 @@ Here are my projects:
 
 ![image](https://user-images.githubusercontent.com/60825743/137608310-adc03996-d712-49d3-aade-fe6c34cf6aca.png)
 
-## [3. Data Science Tesla Stock Analysis (August 2021)](https://github.com/gilarndw/Data_Science_proj)
+## [4. Data Science Tesla Stock Analysis (August 2021)](https://github.com/gilarndw/Data_Science_proj)
 ***Overview***
 * Created plot to analyze Tesla stock market movement
 * Calculated market capital
@@ -36,7 +48,7 @@ Here are my projects:
 ![image](https://user-images.githubusercontent.com/60825743/137608352-face888c-8a33-4292-8256-26921570ad24.png)
 
 
-## [4. Covid 19 Data Exploration in Indonesia (June 2021)](https://github.com/gilarndw/AnalystPortfolioProjects)
+## [5. Covid 19 Data Exploration in Indonesia (June 2021)](https://github.com/gilarndw/AnalystPortfolioProjects)
 ***Overview***
 * Explored the covid 19 datasets from around the world, time period January 2020 - June 2021
 * Collected covid 19 data in Indonesia by filtering based on location from international covid 19 datasets using SQL
